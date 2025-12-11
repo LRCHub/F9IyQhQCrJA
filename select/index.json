@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "琥珀色の街、上海蟹の朝",
+  "base_artist": "くるり",
+  "createdAt": "2025-12-11T08:57:23.707604Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "琥珀色の街、上海蟹の朝",
+      "artist": "くるり",
+      "has_synced": true,
+      "path": "select/01_琥珀色の街、上海蟹の朝_くるり.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "琥珀色の街、上海蟹の朝",
+      "artist": "Quruli",
+      "has_synced": true,
+      "path": "select/02_琥珀色の街、上海蟹の朝_Quruli.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "琥珀色の街、上海蟹の朝",
+      "artist": "くるり",
+      "has_synced": true,
+      "path": "select/03_琥珀色の街、上海蟹の朝_くるり.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "くるり - 琥珀色の街、上海蟹の朝",
+      "artist": "くるり",
+      "has_synced": false,
+      "path": "select/04_くるり_-_琥珀色の街、上海蟹の朝_くるり.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "琥珀色の街、上海蟹の朝",
+      "artist": "くるり",
+      "has_synced": false,
+      "path": "select/pl_01_琥珀色の街、上海蟹の朝_くるり.txt"
+    }
+  ]
+}
